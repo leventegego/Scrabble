@@ -7,3 +7,10 @@ A játék konfigurációját és állapotát egy-egy mappában lehet tárolni.
 A kezdő állapot az alap_jatek mappában található.
 
 Részletesebb dokumentáció a doc mappában.
+
+# Buildelés
+
+Buildeléshez: ```make```
+
+A programot ajánlott a projekt gyökerébőlmappájából indítani.
+
