@@ -1,6 +1,5 @@
 # Scrabble program
 
-Programozás alapjai 1. tárgyhoz készült házi feladat.
 Scrabble játék szöveges interfésszel több játékosnak.
 
 A játék konfigurációját és állapotát egy-egy mappában lehet tárolni.
@@ -10,7 +9,7 @@ Részletesebb dokumentáció a doc mappában.
 
 # Buildelés
 
-Buildeléshez: ```make```
+Buildelés: ```make```
 
-A programot ajánlott a projekt gyökerébőlmappájából indítani.
+Futtatás: ```bin/Scrabble.exe```
 
